@@ -6,7 +6,7 @@ Simple PHP class for merging multiple PDF to one single PDF
 Use composer to install PDFMerger. Change your minium stability to "RC", because a dependent package (FPDI) is only available as RC currently.
 
 ```
-composer install fheider/pdfmerger
+composer require fheider/pdfmerger
 ```
 
 ```json
